@@ -142,7 +142,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── API Keys ──────────────────────────────────────────────────────────────────
-SERPAPI_KEY = "#API"   # https://serpapi.com
+SERPAPI_KEY = "# SERP API"   # https://serpapi.com
 IMGBB_KEY   = "#API"     # https://api.imgbb.com
 
 # ── Load model & data ─────────────────────────────────────────────────────────
