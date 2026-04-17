@@ -142,8 +142,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── API Keys ──────────────────────────────────────────────────────────────────
-SERPAPI_KEY = "92975fcfa35f32d1d0de7be9ddeadaa446835284b8edacc5c271d4978bb3c686"   # https://serpapi.com
-IMGBB_KEY   = "8905c15f51970d8bb2e31c4570b6ccb6"     # https://api.imgbb.com
+SERPAPI_KEY = "#API"   # https://serpapi.com
+IMGBB_KEY   = "#API"     # https://api.imgbb.com
 
 # ── Load model & data ─────────────────────────────────────────────────────────
 @st.cache_resource
